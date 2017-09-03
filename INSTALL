@@ -1,0 +1,9 @@
+Building Raaicoin
+
+See doc/readme-qt.rst for instructions on building Raaicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Raaicoin.
+
+See doc/build-*.txt for instructions on building raaicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Raaicoin.
